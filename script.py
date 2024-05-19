@@ -15,7 +15,7 @@ data_path = input("give the text book location: ")
 
 
 
-embedding_func = OpenAIEmbeddings(openai_api_key = "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")
+embedding_func = OpenAIEmbeddings(openai_api_key = "YOUR_API_KEY")
 
 text_splitter = RecursiveCharacterTextSplitter(
     chunk_size=2000,
