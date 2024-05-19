@@ -1,1 +1,2 @@
-# llama_rag_bot
+# Project Description
+This Python script leverages the LangChain library and OpenAI's embeddings to create a Retrieval-Augmented Generation (RAG) system for answering questions based on the content of a provided textbook in PDF format. It utilizes several advanced components, such as text splitting, vector storage, and conversational memory, to enable efficient and context-aware question answering.
